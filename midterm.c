@@ -1,0 +1,5 @@
+/////////////////////stack 구현//////////////////////////////////////////////////////////////////////////////////////
+createstack();
+pushStack(stack,data);  //pNew->link=stack->top      stack->top=pNew count+=1
+popStack(stack,dataOut);  //
+stackTop(stack,dataOut);
